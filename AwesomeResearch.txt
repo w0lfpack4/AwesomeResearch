@@ -1,0 +1,11 @@
+## APIVersion: 100028 100029
+## Version: 3.2
+## Title: |cFF6060Awesome |cffffffResearch|r
+## Author: |cFF6060Keg|r
+## Description: |cffa500Personal addon to tell if gear obtained by alts is researchable on my main.|r
+## SavedVariables: AIR_SavedVariables
+
+## The core functions of the addon
+AwesomeResearch.lua
+
+
